@@ -37,7 +37,7 @@ It reapplies commits on top of another base tip. Let's say you have been working
 ```
 this command checksout into your feature branch and reapplies commits as the tip of the base (main) branch.
 
-##Git cherry-pick
+## Git cherry-pick
 As the name "cherry-pick" it allows you to pick specific commits on one branch to apply to another. It CHERRY-PICKS commits :). To cherry-pick a commit
 
 ```bash
